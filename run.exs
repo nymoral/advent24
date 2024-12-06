@@ -1,5 +1,5 @@
-input = "1.txt"
-solution = &Advent24.historian_hysteria_similarity/1
+input = "2.txt"
+solution = &Advent24.red_nosed_reports_damp/1
 
 
 input_file = "inputs/#{input}"
